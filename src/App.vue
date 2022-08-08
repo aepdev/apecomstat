@@ -7,7 +7,7 @@ export default {
   name: "App",
   data() {
     return {
-      value: "World!!!"+ <br/> +"this is updated"
+      value: "World!!! This is updated"
     };
   }
 };
