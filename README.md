@@ -1,31 +1,18 @@
-# Vue Basic
+# Minimalistic, yet fully-featured Vuex example
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [Vue.js](https://vuejs.org/) apps in minutes. Use this repo with the [Vue quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vue) to build and customize a new static site.
+A Work-in-Progress by @gbezyuk
 
-## Project setup
+This branch cointains some incrementably adoptable standalone Vue examples.
 
-```bash
-npm install
-```
+See tags: @step0, @step0.1, @step1 —  and so on.
 
-### Compiles and hot-reloads for development
+We start with a simple HTML-embedded example, and gradually move to a fully-functional WebPack-based application.
 
-```bash
-npm run serve
-```
-
-### Compiles and minifies for production
+You will need some sort of static HTTP server to run some of the examples. You could use `http-server`:
 
 ```bash
-npm run build
+# installation
+npm install -g http-server
+# run it with caching disabled
+http-server -c-1
 ```
-
-### Lints and fixes files
-
-```bash
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
