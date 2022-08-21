@@ -5,10 +5,10 @@ var App = Vue.component('App', function (resolve, reject) {
                 template: template_string,
                 data: function () { return app_data; },
                 computed: {
-                    filtered_cat_pins: function () {
+                    filtered_el_pins: function () {
                         var term = this.filter_value;
-                        if (!term) return this.cat_pins;
-                        return this.cat_pins.filter(function (pin) {
+                        if (!term) return this.el_pins;
+                        return this.el_pins.filter(function (pin) {
                             return pin.tags.indexOf(term) > -1;
                         })
                     }

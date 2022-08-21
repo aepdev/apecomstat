@@ -1,4 +1,4 @@
-<div class="cat-pin">
+<div class="el-pin">
     <div class="image"><img :src="image_url"></div>
     <ul class="tags">
         <li v-for="tag in tags" :class='{active: filter_value == tag}' @click='handle_tag_click(tag)'>{{ tag }}</li>                

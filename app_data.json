@@ -1,13 +1,13 @@
 {
-    "title": "CatInterest",
+    "title": "ElInterest",
     "filter_value": "",
-    "cat_pins": [
+    "el_pins": [
         {
             "image_url": "/assets/img/cats/munchkin-kitten.jpg",
-            "tags": ["munchkin", "kitten", "cat"],
-            "description": "A nice munchkin kitten pic",
+            "tags": ["this", "that", "theother"],
+            "description": "whatev",
             "author": {
-                "name": "Told Myself",
+                "name": "authelone",
                 "status": "Okay, you were right for me",
                 "avatar_url": "",
                 "gender": "male"

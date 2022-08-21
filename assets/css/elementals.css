@@ -1,11 +1,11 @@
-.cat-pins {
+.el-pins {
 }
 
 .filter {
     margin: 1em 0;
 }
 
-.cat-pin {
+.el-pin {
     display: inline-block;
     width: 200px;
     height: 350px;
@@ -14,22 +14,22 @@
     border-radius: 20px;
     box-shadow: rgba(0, 0, 0, .1) 5px 5px;
 }
-    .cat-pin > .image {
+    .el-pin > .image {
         width: 200px;
         height: 180px;
         overflow: hidden;
     }   
 
-        .cat-pin > .image > img {
+        .el-pin > .image > img {
             width: 100%;
         }
 
-    .cat-pin .tags {
+    .el-pin .tags {
         margin: 1em 0;
         padding: 0;
     }
 
-        .cat-pin .tags > li {
+        .el-pin .tags > li {
             display: inline-block;
             background-color: gray;
             color: white;
@@ -39,11 +39,11 @@
             font-size: 10px;
             cursor: pointer;
         }
-            .cat-pin .tags > li.active {
+            .el-pin .tags > li.active {
                 background-color: black;
             }
 
-    .cat-pin .description {
+    .el-pin .description {
         font-size: 14px;
         text-align: center;
         margin: 1em;

@@ -6,18 +6,18 @@
             <input v-model="filter_value" name="tag_filter" id="tag_filter" placeholder="filter by tag">
             <button @click="filter_value=''">Clear</button>
         </div>
-        <transition-group name="list" tag="div" class="cat-pins">
-            <cat-pin v-for="cat_pin in filtered_cat_pins"
+        <transition-group name="list" tag="div" class="el-pins">
+            <el-pin v-for="el_pin in filtered_el_pins"
                 class="list-complete-item"
-                :key="cat_pin.image_url"
-                :image_url="cat_pin.image_url"
-                :author="cat_pin.author"
-                :description="cat_pin.description"
-                :tags="cat_pin.tags"
+                :key="el_pin.image_url"
+                :image_url="el_pin.image_url"
+                :author="el_pin.author"
+                :description="el_pin.description"
+                :tags="el_pin.tags"
                 :filter_value="filter_value"
                 @tag-clicked="update_filter"
-            ></cat-pin>
-            <link rel="stylesheet" href="/assets/css/cats.css" type="text/css">
+            ></el-pin>
+            <link rel="stylesheet" href="/assets/css/elementals.css" type="text/css">
         </transition-group>
     </div>
     </transition>

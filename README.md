@@ -1,14 +1,10 @@
-# Minimalistic, yet fully-featured Vuex example
+# Becoming APE COM
 
-A Work-in-Progress by @gbezyuk
+A Collaboration Landing Zone by @aepdev
 
-This branch cointains some incrementably adoptable standalone Vue examples.
+To simulate locally the static server app service serving this page from AZU, you will need some sort of static HTTP server to run some of the examples. You could use
 
-See tags: @step0, @step0.1, @step1 —  and so on.
-
-We start with a simple HTML-embedded example, and gradually move to a fully-functional WebPack-based application.
-
-You will need some sort of static HTTP server to run some of the examples. You could use `http-server`:
+`http-server`:
 
 ```bash
 # installation
