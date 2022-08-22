@@ -1,38 +1,38 @@
 {
-    "title": "ElInterest",
+    "title": "Quantum Computing",
     "filter_value": "",
     "el_pins": [
         {
-            "image_url": "/assets/img/cats/munchkin-kitten.jpg",
-            "tags": ["this", "that", "theother"],
-            "description": "whatev",
+            "image_url": "/assets/img/cucsimg/introquant.png",
+            "tags": ["principles", "algo", "programming"],
+            "description": "The course teaches students the principles, the algorithms, and the programming methods of quantum computing, and also discusses the associated physics and mathematics background required. Other related topics such as quantum communication and quantum entanglement will also be covered.",
             "author": {
-                "name": "authelone",
-                "status": "Okay, you were right for me",
+                "name": "ape",
+                "status": "Spring 2023",
                 "avatar_url": "",
-                "gender": "male"
+                "gender": ""
             }
         },
         {
-            "image_url": "/assets/img/cats/siam-kitten.jpg",
-            "tags": ["siam", "kitten", "cat"],
-            "description": "Awesome siam kitten pic",
+            "image_url": "/assets/img/cucsimg/algolog.png",
+            "tags": ["algo", "transform", "programming"],
+            "description": "The course presents several seminal quantum algorithms, including quantum Fourier transforms, Grover’s and Shor’s algorithms, followed by explaining several advanced quantum computing algorithms, including quantum error correction, sparse linear systems , and the variational eigensolver. The Google Cirq quantum programming library will be used for actual quantum programming implementations of algorithms.",
             "author": {
-                "name": "But Felt",
-                "status": "... felt so lonely in your company =(",
+                "name": "ape",
+                "status": "happening now",
                 "avatar_url": "",
-                "gender": "female"
+                "gender": ""
             }
         },
         {
-            "image_url": "/assets/img/cats/standing-cat.jpg",
-            "tags": ["cat", "standing", "cute"],
-            "description": "A well-known standing cat",
+            "image_url": "/assets/img/cucsimg/cryolab.png",
+            "tags": ["hardware", "quantum", "manufacture"],
+            "description": "Students will explore hardware and experimental practices for realizing quantum computers. They will engage in laboratory practice of relevant skills including high- performance analog electronics; optics based quantum encryption and eraser implementations; RF electronics; and vacuum and cryogenic techniques.<br/>&nbsp;",
             "author": {
-                "name": "But That",
-                "status": "it`s an ache I still remember",
-                "avatar_url": "/assets/img/avatars/mr-black-avatar.png",
-                "gender": "male"
+                "name": "ape",
+                "status": "happeing now",
+                "avatar_url": "",
+                "gender": ""
             }
         }
     ]
