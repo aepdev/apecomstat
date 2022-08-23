@@ -7,7 +7,7 @@
             "tags": ["principles", "algo", "programming"],
             "description": "The course teaches students the principles, the algorithms, and the programming methods of quantum computing, and also discusses the associated physics and mathematics background required. Other related topics such as quantum communication and quantum entanglement will also be covered.",
             "author": {
-                "name": "ape",
+                "name": "-",
                 "status": "Spring 2023",
                 "avatar_url": "",
                 "gender": ""
@@ -18,8 +18,8 @@
             "tags": ["algo", "transform", "programming"],
             "description": "The course presents several seminal quantum algorithms, including quantum Fourier transforms, Grover’s and Shor’s algorithms, followed by explaining several advanced quantum computing algorithms, including quantum error correction, sparse linear systems , and the variational eigensolver. The Google Cirq quantum programming library will be used for actual quantum programming implementations of algorithms.",
             "author": {
-                "name": "ape",
-                "status": "happening now",
+                "name": "3210",
+                "status": "Lei",
                 "avatar_url": "",
                 "gender": ""
             }
@@ -27,10 +27,10 @@
         {
             "image_url": "/assets/img/cucsimg/cryolab.png",
             "tags": ["hardware", "quantum", "manufacture"],
-            "description": "Students will explore hardware and experimental practices for realizing quantum computers. They will engage in laboratory practice of relevant skills including high- performance analog electronics; optics based quantum encryption and eraser implementations; RF electronics; and vacuum and cryogenic techniques.<br/>&nbsp;",
+            "description": "Students will explore hardware and experimental practices for realizing quantum computers. They will engage in laboratory practice of relevant skills including high- performance analog electronics; optics based quantum encryption and eraser implementations; RF electronics; and vacuum and cryogenic techniques.",
             "author": {
-                "name": "ape",
-                "status": "happeing now",
+                "name": "2609",
+                "status": "Huber",
                 "avatar_url": "",
                 "gender": ""
             }
