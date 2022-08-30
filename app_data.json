@@ -1,5 +1,5 @@
 {
-    "title": "Quantum Computing",
+    "title": "Quantum Computing - Notes",
     "filter_value": "",
     "el_pins": [
         {
@@ -7,7 +7,9 @@
             "tags": ["principles", "algo", "programming"],
             "description": "The course teaches students the principles, the algorithms, and the programming methods of quantum computing, and also discusses the associated physics and mathematics background required. Other related topics such as quantum communication and quantum entanglement will also be covered.",
             "author": {
-                "name": "-",
+                "inst": "Lei",
+                "room": "tbd",
+                "course": "ELEC 4980 001 - Introduction to Quantum Computing",
                 "status": "Spring 2023",
                 "avatar_url": "",
                 "gender": ""
@@ -18,8 +20,10 @@
             "tags": ["algo", "transform", "programming"],
             "description": "The course presents several seminal quantum algorithms, including quantum Fourier transforms, Grover’s and Shor’s algorithms, followed by explaining several advanced quantum computing algorithms, including quantum error correction, sparse linear systems , and the variational eigensolver. The Google Cirq quantum programming library will be used for actual quantum programming implementations of algorithms.",
             "author": {
-                "name": "3210",
-                "status": "Lei",
+                "inst": "Lei",
+                "room": "Room: 3210",
+                "course": "ELEC 4679 001 - Quantum Computing Algorithms",
+                "status": "active",
                 "avatar_url": "",
                 "gender": ""
             }
@@ -29,8 +33,10 @@
             "tags": ["hardware", "quantum", "manufacture"],
             "description": "Students will explore hardware and experimental practices for realizing quantum computers. They will engage in laboratory practice of relevant skills including high- performance analog electronics; optics based quantum encryption and eraser implementations; RF electronics; and vacuum and cryogenic techniques.",
             "author": {
-                "name": "2609",
-                "status": "Huber",
+                "inst": "Huber",
+                "room": "2609",
+                "course": "ELEC 4680 001 - Quantum Computing Technology",
+                "status": "active",
                 "avatar_url": "",
                 "gender": ""
             }

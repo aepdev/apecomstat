@@ -65,12 +65,26 @@
             width: 100%;
         }
     
-    .author-signature .name {
-        margin-top: .5em;
-        display: block;
-    }
+        .author-signature .name {
+            margin-top: .5em;
+            display: block;
+        }
 
-    .author-signature .status {
-        font-size: 10px;
-        color: gray;
-    }
+        .author-signature .inst {
+            margin-top: .5em;
+            display: block;
+        }
+
+        .author-signature .room {
+            font-size: 10px;
+            color: gray;
+        }
+        .author-signature .course {
+            font-size: 10px;
+            color: gray;
+        }
+
+        .author-signature .status {
+            font-size: 10px;
+            color: gray;
+        }
