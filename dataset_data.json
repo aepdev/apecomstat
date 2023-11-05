@@ -1,0 +1,39 @@
+{
+    "title": "ElChoicesMacho",
+    "filter_value": "",
+    "el_pins": [
+        {
+            "image_url": "/assets/img/badges/munchkin-kitten.jpg",
+            "tags": ["this", "that", "theother"],
+            "description": "whatev",
+            "author": {
+                "name": "authelone",
+                "status": "Okay, you were right for me",
+                "avatar_url": "",
+                "gender": "male"
+            }
+        },
+        {
+            "image_url": "/assets/img/badges/siam-kitten.jpg",
+            "tags": ["that", "theother", "kitchen"],
+            "description": "Awesome siam kitten pic",
+            "author": {
+                "name": "But Felt",
+                "status": "... felt so lonely in your company =(",
+                "avatar_url": "",
+                "gender": "female"
+            }
+        },
+        {
+            "image_url": "/assets/img/badges/standing-cat.jpg",
+            "tags": ["theother", "kitchen", "rightonrobinson"],
+            "description": "A well-known standing cat",
+            "author": {
+                "name": "But That",
+                "status": "it`s an ache I still remember",
+                "avatar_url": "/assets/img/avatars/mr-black-avatar.png",
+                "gender": "male"
+            }
+        }
+    ]
+}
